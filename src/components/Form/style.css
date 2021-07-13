@@ -1,0 +1,44 @@
+.app-form-label {
+  font-size: 10px;
+  font-weight: 600;
+  height: 20px;
+  color: #a5a5a5;
+}
+.app-form-header {
+  font-weight: 700;
+}
+
+.app-form-inputbase {
+  background-color: #f0f0f0;
+  height: 35px;
+  width: 300px;
+  border-radius: 5px;
+}
+::placeholder {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.app-form-forgotpassword {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15px;
+  font-weight: 500;
+  color: #333333;
+  font-size: 10px;
+  height: 35px;
+}
+
+@media (max-width: 1124px) {
+  .app-form-header {
+    display: flex;
+    justify-content: center;
+  }
+  .app-form-password {
+    flex-direction: column;
+  }
+  .app-form-forgotpassword {
+    margin-left: 0px;
+  }
+}
