@@ -2,6 +2,8 @@
 
 https://sagardalal15.github.io/reactjs-login-frontend/
 
+<img width="1440" alt="Screenshot 2021-07-14 at 2 37 48 AM" src="https://user-images.githubusercontent.com/74422938/125525209-982f0a8f-a715-403e-9114-b0b124e5dbd6.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
