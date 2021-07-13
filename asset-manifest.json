@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactjs-login-frontend/static/css/main.0a900c30.chunk.css",
+    "main.js": "/reactjs-login-frontend/static/js/main.b3a42892.chunk.js",
+    "main.js.map": "/reactjs-login-frontend/static/js/main.b3a42892.chunk.js.map",
+    "runtime-main.js": "/reactjs-login-frontend/static/js/runtime-main.cd42bfc7.js",
+    "runtime-main.js.map": "/reactjs-login-frontend/static/js/runtime-main.cd42bfc7.js.map",
+    "static/js/2.7e00a344.chunk.js": "/reactjs-login-frontend/static/js/2.7e00a344.chunk.js",
+    "static/js/2.7e00a344.chunk.js.map": "/reactjs-login-frontend/static/js/2.7e00a344.chunk.js.map",
+    "index.html": "/reactjs-login-frontend/index.html",
+    "static/css/main.0a900c30.chunk.css.map": "/reactjs-login-frontend/static/css/main.0a900c30.chunk.css.map",
+    "static/js/2.7e00a344.chunk.js.LICENSE.txt": "/reactjs-login-frontend/static/js/2.7e00a344.chunk.js.LICENSE.txt",
+    "static/media/Bubble-2.e2e32488.svg": "/reactjs-login-frontend/static/media/Bubble-2.e2e32488.svg",
+    "static/media/Bubble.8181cc43.svg": "/reactjs-login-frontend/static/media/Bubble.8181cc43.svg",
+    "static/media/Login.f204f09b.svg": "/reactjs-login-frontend/static/media/Login.f204f09b.svg",
+    "static/media/YellowBubble.23174575.svg": "/reactjs-login-frontend/static/media/YellowBubble.23174575.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd42bfc7.js",
+    "static/js/2.7e00a344.chunk.js",
+    "static/css/main.0a900c30.chunk.css",
+    "static/js/main.b3a42892.chunk.js"
+  ]
+}
